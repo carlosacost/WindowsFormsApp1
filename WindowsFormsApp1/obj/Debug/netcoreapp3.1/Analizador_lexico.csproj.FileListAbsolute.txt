@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Analizador_lexico.exe
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Analizador_lexico.deps.json
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Analizador_lexico.runtimeconfig.json
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Analizador_lexico.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Analizador_lexico.dll
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\netcoreapp3.1\Analizador_lexico.pdb
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\Analizador_lexico.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.Form1.resources
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\Analizador_lexico.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\Analizador_lexico.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\Analizador_lexico.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\Analizador_lexico.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\Analizador_lexico.dll
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\Analizador_lexico.pdb
+C:\Users\Lenovo\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\netcoreapp3.1\Analizador_lexico.genruntimeconfig.cache
